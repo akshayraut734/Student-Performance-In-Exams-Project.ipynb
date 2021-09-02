@@ -1,1 +1,1 @@
-# Student-Performance-In-Exams-Project.ipynb
+This data is based on population demographics. The data contains various features like the meal type given to the student, test preparation level, parental level of education, and students’ performance in Math, Reading, and Writing. Using the data, various types of Regression and Classification problems can be solved. It can also be used to find which factors can lead to better exam scores. Overall, it will be interesting to work on.
